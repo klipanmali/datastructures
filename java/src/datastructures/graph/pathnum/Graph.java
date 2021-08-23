@@ -1,5 +1,5 @@
 // path number between two vertices, directed graph
-package dattastructures.graph.pathnum;
+package datastructures.graph.pathnum;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

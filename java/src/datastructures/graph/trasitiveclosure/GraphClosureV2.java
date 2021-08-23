@@ -1,6 +1,6 @@
 // Transitive closure using DFS
 // Complexity : O(V^2)
-package datastructure.graph.trasitiveclosure;
+package datastructures.graph.trasitiveclosure;
 
 import java.util.ArrayList;
 import java.util.Arrays;

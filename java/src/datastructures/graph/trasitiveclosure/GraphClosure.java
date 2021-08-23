@@ -1,6 +1,6 @@
 //Transitive closure using Floyd Warshall Algorithm
 //Complexity : O(V^3)
-package datastructure.graph.trasitiveclosure;
+package datastructures.graph.trasitiveclosure;
 
 class GraphClosure
 {
