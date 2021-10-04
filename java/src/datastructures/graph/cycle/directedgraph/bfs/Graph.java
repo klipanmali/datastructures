@@ -1,3 +1,4 @@
+// The idea is to simply use Kahn’s algorithm for Topological Sorting
 package datastructures.graph.cycle.directedgraph.bfs;
 
 import java.util.ArrayList;
