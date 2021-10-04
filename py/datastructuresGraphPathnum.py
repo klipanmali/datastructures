@@ -1,5 +1,7 @@
 # Python 3 program to count all paths
 # from a source to a destination in directed graph
+# similar solution for detecting cycle in directed graph
+# using stack instead of copying path vertices os better solution
 from collections import defaultdict
 
 

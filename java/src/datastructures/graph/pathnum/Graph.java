@@ -1,4 +1,7 @@
 // path number between two vertices, directed graph
+// similar solution for detecting cycle in directed graph
+// maybe even better to use stack instead to clone path vertices
+
 package datastructures.graph.pathnum;
 
 import java.util.ArrayList;
